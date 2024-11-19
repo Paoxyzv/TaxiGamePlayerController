@@ -64,7 +64,7 @@ namespace ArcadeVP
             horizontalInput = Input.GetAxis("Horizontal"); //turning input
             verticalInput = Input.GetAxis("Vertical");     //accelaration input
             Visuals();
-            AudioManager();
+            //AudioManager();
 
         }
         public void AudioManager()
